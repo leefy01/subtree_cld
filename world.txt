@@ -5,3 +5,4 @@ mychange
 write some thg in parent repo
 
 let us play
+let child make some spec
